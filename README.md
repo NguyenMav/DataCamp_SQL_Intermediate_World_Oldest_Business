@@ -1,4 +1,4 @@
-## Overview of this project
+## Overview of this project (SQL Intermediate)
 This was an SQL project done on the DataCamp Premium Jupyter Notebook, aka DataLab. Intermediate level of SQL proficiency
 
 ## 1. The oldest business in the world
