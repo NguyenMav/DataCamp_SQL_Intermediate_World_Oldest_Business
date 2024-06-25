@@ -1,4 +1,5 @@
-## Completed on DataCamp Jupyter Notebook, exported to markdown
+## Overview of this project
+This was an SQL project done on the DataCamp Premium Jupyter Notebook, aka DataLab. Intermediate level of SQL proficiency
 
 ## 1. The oldest business in the world
 <p><em>Image: St. Peter Stiftskeller, founded 803. Credit: <a href="https://commons.wikimedia.org/wiki/File:Eingang_zum_St._Peter_Stiftskeller.jpg">Pakeha</a>.</em></p>
